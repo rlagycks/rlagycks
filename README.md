@@ -23,7 +23,7 @@ Hi, I'm Hyochan Kim
 <br>
 
 <a href="https://github.com/git-goods/gitanimals">
-  <img src="https://render.gitanimals.org/lines/rlagycks" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/farms/rlagycks"/>
 </a>
 
 <br>
